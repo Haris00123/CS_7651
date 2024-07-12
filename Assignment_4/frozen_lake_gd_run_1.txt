@@ -1,0 +1,82 @@
+running q_learning with gamma: 0.72 epsilon decay: 0.72  iterations: 2500000
+  0%|          | 0/2500000 [00:00<?, ?it/s]C:\Users\Admin\Desktop\School\CS_7641\Assignment_4\gym_parent\gym\utils\passive_env_checker.py:233: DeprecationWarning: `np.bool8` is a deprecated alias for `np.bool_`.  (Deprecated NumPy 1.24)
+  if not isinstance(terminated, (bool, np.bool8)):
+                                                              
+runtime = 7033.67 seconds
+Avg. episode reward:  5.93
+###################
+running q_learning with gamma: 0.72 epsilon decay: 0.8099999999999999  iterations: 2500000
+                                                              
+runtime = 6622.20 seconds
+Avg. episode reward:  3.51
+###################
+running q_learning with gamma: 0.72 epsilon decay: 0.8999999999999999  iterations: 2500000
+                                                            
+runtime = 6140.84 seconds
+Avg. episode reward:  4.72
+###################
+running q_learning with gamma: 0.72 epsilon decay: 0.9899999999999999  iterations: 2500000
+                                                            
+runtime = 5676.64 seconds
+Avg. episode reward:  6.15
+###################
+running q_learning with gamma: 0.8099999999999999 epsilon decay: 0.72  iterations: 2500000
+                                                              
+runtime = 6989.32 seconds
+Avg. episode reward:  3.62
+###################
+running q_learning with gamma: 0.8099999999999999 epsilon decay: 0.8099999999999999  iterations: 2500000
+                                                              
+runtime = 6524.62 seconds
+Avg. episode reward:  4.17
+###################
+running q_learning with gamma: 0.8099999999999999 epsilon decay: 0.8999999999999999  iterations: 2500000
+                                                            
+runtime = 6102.02 seconds
+Avg. episode reward:  4.5
+###################
+running q_learning with gamma: 0.8099999999999999 epsilon decay: 0.9899999999999999  iterations: 2500000
+                                                            
+runtime = 5679.10 seconds
+Avg. episode reward:  6.37
+###################
+running q_learning with gamma: 0.8999999999999999 epsilon decay: 0.72  iterations: 2500000
+                                                              
+runtime = 6810.34 seconds
+Avg. episode reward:  6.48
+###################
+running q_learning with gamma: 0.8999999999999999 epsilon decay: 0.8099999999999999  iterations: 2500000
+                                                              
+runtime = 6475.06 seconds
+Avg. episode reward:  6.92
+###################
+running q_learning with gamma: 0.8999999999999999 epsilon decay: 0.8999999999999999  iterations: 2500000
+                                                            
+runtime = 5974.32 seconds
+Avg. episode reward:  6.81
+###################
+running q_learning with gamma: 0.8999999999999999 epsilon decay: 0.9899999999999999  iterations: 2500000
+                                                            
+runtime = 5518.84 seconds
+Avg. episode reward:  6.92
+###################
+running q_learning with gamma: 0.9899999999999999 epsilon decay: 0.72  iterations: 2500000
+                                                            
+runtime = 3539.88 seconds
+Avg. episode reward:  7.47
+###################
+running q_learning with gamma: 0.9899999999999999 epsilon decay: 0.8099999999999999  iterations: 2500000
+                                                            
+runtime = 3172.92 seconds
+Avg. episode reward:  6.04
+###################
+running q_learning with gamma: 0.9899999999999999 epsilon decay: 0.8999999999999999  iterations: 2500000
+                                                            
+runtime = 2868.93 seconds
+Avg. episode reward:  7.14
+###################
+running q_learning with gamma: 0.9899999999999999 epsilon decay: 0.9899999999999999  iterations: 2500000
+                                                           
+runtime = 2827.77 seconds
+Avg. episode reward:  6.92
+###################
